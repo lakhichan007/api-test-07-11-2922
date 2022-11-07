@@ -1,0 +1,26 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakhichan007/api-test-07-11-2922.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakhichan007/api-test-07-11-2922/issues"
+  },
+  "homepage": "https://github.com/lakhichan007/api-test-07-11-2922#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1",
+    "nodemon": "^2.0.20"
+  }
+}
